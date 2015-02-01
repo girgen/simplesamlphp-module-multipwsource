@@ -33,6 +33,7 @@ A typical config/authsources.php:
 
         // The hostname of the LDAP server.
         'hostname' => 'ldaps://ldapserver.jb.com',
+...
 ```
 
 Author
