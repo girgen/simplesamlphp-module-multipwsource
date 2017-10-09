@@ -1,5 +1,5 @@
 {
-    "name": "girgen/multipwsources",
+    "name": "si/multipwsources",
     "description": "An authentication module that accepts a list of sources for authentication, and tries one at a time until a we succeed or run out of sources.",
     "type": "simplesamlphp-module",
     "keywords": [ "simplesamlphp", "modules" ],
